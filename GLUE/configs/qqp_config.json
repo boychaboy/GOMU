@@ -1,0 +1,9 @@
+{
+  "task": "qqp",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/qqp/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/qqp/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/qqp/val.jsonl"
+  },
+  "name": "qqp"
+}

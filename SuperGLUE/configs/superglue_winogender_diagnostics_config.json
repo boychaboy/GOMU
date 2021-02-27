@@ -1,0 +1,7 @@
+{
+  "task": "superglue_axg",
+  "paths": {
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/superglue_winogender_diagnostics/test.jsonl"
+  },
+  "name": "superglue_winogender_diagnostics"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "mnli",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/mnli/train.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/mnli/val.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/mnli/test.jsonl"
+  },
+  "name": "mnli"
+}

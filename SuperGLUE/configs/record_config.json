@@ -1,0 +1,9 @@
+{
+  "task": "record",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/record/train.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/record/val.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/record/test.jsonl"
+  },
+  "name": "record"
+}

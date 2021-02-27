@@ -1,0 +1,9 @@
+{
+  "task": "rte",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/rte/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/rte/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/rte/val.jsonl"
+  },
+  "name": "rte"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "multirc",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/multirc/train.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/multirc/val.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/multirc/test.jsonl"
+  },
+  "name": "multirc"
+}

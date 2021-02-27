@@ -1,0 +1,9 @@
+{
+  "task": "sst",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/sst/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/sst/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/sst/val.jsonl"
+  },
+  "name": "sst"
+}

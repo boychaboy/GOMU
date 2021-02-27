@@ -1,0 +1,9 @@
+{
+  "task": "cb",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/cb/train.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/cb/test.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/cb/val.jsonl"
+  },
+  "name": "cb"
+}

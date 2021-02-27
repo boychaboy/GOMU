@@ -1,0 +1,8 @@
+{
+  "task": "mnli_mismatched",
+  "paths": {
+    "val": "/home/boychaboy/gomu/GLUE/data/mnli_mismatched/val.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/mnli_mismatched/test.jsonl"
+  },
+  "name": "mnli_mismatched"
+}

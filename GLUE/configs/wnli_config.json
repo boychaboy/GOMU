@@ -1,0 +1,9 @@
+{
+  "task": "wnli",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/wnli/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/wnli/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/wnli/val.jsonl"
+  },
+  "name": "wnli"
+}

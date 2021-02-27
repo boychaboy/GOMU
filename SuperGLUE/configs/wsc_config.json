@@ -1,0 +1,9 @@
+{
+  "task": "wsc",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/wsc/train.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/wsc/val.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/wsc/test.jsonl"
+  },
+  "name": "wsc"
+}

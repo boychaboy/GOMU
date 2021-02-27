@@ -1,0 +1,9 @@
+{
+  "task": "mrpc",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/mrpc/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/mrpc/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/mrpc/val.jsonl"
+  },
+  "name": "mrpc"
+}

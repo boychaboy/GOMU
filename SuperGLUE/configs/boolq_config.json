@@ -1,0 +1,9 @@
+{
+  "task": "boolq",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/boolq/train.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/boolq/test.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/boolq/val.jsonl"
+  },
+  "name": "boolq"
+}

@@ -1,0 +1,9 @@
+{
+  "task": "stsb",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/stsb/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/stsb/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/stsb/val.jsonl"
+  },
+  "name": "stsb"
+}

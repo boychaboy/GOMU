@@ -1,0 +1,7 @@
+{
+  "task": "glue_diagnostics",
+  "paths": {
+    "test": "/home/boychaboy/gomu/GLUE/data/glue_diagnostics/test.jsonl"
+  },
+  "name": "glue_diagnostics"
+}

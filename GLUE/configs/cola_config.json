@@ -1,0 +1,9 @@
+{
+  "task": "cola",
+  "paths": {
+    "train": "/home/boychaboy/gomu/GLUE/data/cola/train.jsonl",
+    "test": "/home/boychaboy/gomu/GLUE/data/cola/test.jsonl",
+    "val": "/home/boychaboy/gomu/GLUE/data/cola/val.jsonl"
+  },
+  "name": "cola"
+}

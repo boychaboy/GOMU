@@ -1,0 +1,9 @@
+{
+  "task": "wic",
+  "paths": {
+    "train": "/home/boychaboy/gomu/SuperGLUE/data/wic/train.jsonl",
+    "test": "/home/boychaboy/gomu/SuperGLUE/data/wic/test.jsonl",
+    "val": "/home/boychaboy/gomu/SuperGLUE/data/wic/val.jsonl"
+  },
+  "name": "wic"
+}
